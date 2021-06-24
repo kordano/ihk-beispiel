@@ -1,2 +1,1 @@
 # ihk-beispiel
-Hallo Welt!
